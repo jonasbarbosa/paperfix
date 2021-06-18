@@ -6,7 +6,7 @@ class Arquivos extends MY_Controller
 {
 
     /**
-     * author: Ramon Silva
+     * author: R Silva
      * email: silva018-mg@yahoo.com.br
      *
      */
