@@ -4,7 +4,24 @@ Todas as alterações serão documentadas neste arquivo
 Formato baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 e [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.33.1] - 2021-05-24
+
+### Fixed
+- Corrigido valor incorreto em banco.sql. [@willph](https://github.com/willph)
+
+## [4.33.0] - 2021-05-23
+
+### Added
+- Adicionado status "Aprovado" em OS. [@fwsund](https://github.com/fwsund)
+- Sugestão de valor de desconto ao faturar OS/Vendar de acordo com percentual. [@hoshikawakun](https://github.com/hoshikawakun)
+- Sugestão de valor do produto ao editar/adicionar produto de acordo com margem. [@hoshikawakun](https://github.com/hoshikawakun)
+
+### Changed
+- Melhorias gerais em relatórios. [@hoshikawakun](https://github.com/hoshikawakun)
+- Melhora em cores de gráficos do painel. [@mikxingu](https://github.com/mikxingu)
+
 ## [4.32.2] - 2021-04-16
+
 ### Changed
 - Alteradas as cores dos gráficos do painel para melhor entendimento e leitura dos gráficos e adicionado comentário nas linhas para que os usuários possam alterar as cores mais facilmente. [@mikxingu](https://github.com/mikxingu)
 
@@ -237,6 +254,7 @@ e [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ## [4.17.0] - 2020-10-04
 
 ## Added
+
 - Modificado filtros de lançamentos para permitir período arbitrário de data e adicionado filtro de status. [@Pr3d4dor](https://github.com/Pr3d4dor)
 
 ## [4.16.0] - 2020-10-04
