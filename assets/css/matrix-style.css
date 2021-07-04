@@ -53,7 +53,7 @@ hr{ border-top-color:#dadada;}
 	z-index: -9;
 }
 #header h1 {
-	background: url("../img/logo.png") no-repeat scroll 0 0 transparent;
+	background: url("../img/logo_dashboard.png") no-repeat scroll 0 0 transparent;
 	height: 31px;
 	left: 20px;
 	line-height: 600px;
@@ -115,6 +115,7 @@ hr{ border-top-color:#dadada;}
 	padding:9px 10px;
 	display: block;
 	font-size: 11px;
+    display: none;
 }
 #user-nav > ul > li > a:hover, #user-nav > ul > li.open > a {
 	color: #ffffff;  background:#000;

@@ -27,7 +27,7 @@
     <div class="panel panel-install">
 
       <div class="panel-heading text-center">
-        <img id="logo" class="card-img-top" src="<?php echo $dashboard_url; ?>assets/img/logo.png" title="Logo" />
+        <img id="logo" class="card-img-top" src="<?php echo $dashboard_url; ?>assets/img/logo_dashboard.png" title="Logo" />
         <h3><?php echo($settings['title']); ?></h3>
       </div>
 

@@ -1,7 +1,7 @@
 <!--Footer-part-->
 <div class="row-fluid">
-    <div id="footer" class="span12"> <a href="https://github.com/RamonSilva20/mapos" target="_blank">
-            <?= date('Y'); ?> &copy; Map-OS - Ramon Silva </a></div>
+    <div id="footer" class="span12"> <a href="http://paperfixsolucoes.com.br/" target="_blank">
+            <?= date('Y'); ?> &copy; Map-OS - Forked - PaperFix </a></div>
 </div>
 <!--end-Footer-part-->
 <script src="<?= base_url(); ?>assets/js/bootstrap.min.js"></script>
