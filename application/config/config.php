@@ -9,7 +9,7 @@ $config['app_version'] = '4.32.1';
 /**
  * Nome do sistema
  */
-$config['app_name'] = 'Map-OS';
+$config['app_name'] = 'Paperfix';
 
 /**
  * Descrição do sistema
